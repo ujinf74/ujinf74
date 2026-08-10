@@ -1,4 +1,10 @@
-## Hi there 👋
+# ∞
+
+meow? pew!
+
+I make physical systems computable.
+
+[projects →](https://ujinf74.github.io)
 
 <!--
 **ujinf74/ujinf74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
