@@ -4,19 +4,12 @@
 
 I make physical systems computable.
 
-[ujinf74.github.io](https://ujinf74.github.io)
+**Maintainer** · [Autoware Universe `autoware_carla_interface`](https://github.com/autowarefoundation/autoware_universe/tree/main/simulator/autoware_carla_interface) — the CARLA ↔ Autoware simulator bridge
 
-<!--
-**ujinf74/ujinf74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Open source** — 7 merged changes to `autoware_carla_interface` (sensor timing, capture rate, capture-frame timestamps, `mono8`/`bgr8` output, all camera types, IMU/GNSS noise)
+- **Vehicle autonomy** — mapless reverse parking on a Hyundai Ioniq · autonomous-driving team lead at HuVILab
+- **Perception** — [monoscale](https://github.com/ujinf74/monoscale): learning-free metric camera odometry and dense occupancy
+- **Numerics** — [ballistic-solver](https://github.com/ujinf74/ballistic-solver): moving-target intercept under drag and wind · C++ / Python / Unity / Godot
+- **Telemetry** — GNSS/RTK runtime and analysis workbench with Luxon Racing Team
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[ujinf74.github.io](https://ujinf74.github.io) · [ujinf.net](https://ujinf.net)
