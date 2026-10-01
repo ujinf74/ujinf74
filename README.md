@@ -10,6 +10,7 @@ I make physical systems computable.
 - **Vehicle autonomy** — mapless reverse parking on a Hyundai Ioniq · autonomous-driving team lead at HuVILab
 - **Perception** — [monoscale](https://github.com/ujinf74/monoscale): learning-free metric camera odometry and dense occupancy
 - **Numerics** — [ballistic-solver](https://github.com/ujinf74/ballistic-solver): moving-target intercept under drag and wind · C++ / Python / Unity / Godot
+  - Sole-author [ICROS 2026 paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12952462): *Auxiliary-Solution-Induced Residual for Nonlinear Iterative Correction with Application to Ballistic Interception*
 - **Telemetry** — GNSS/RTK runtime and analysis workbench with Luxon Racing Team
 
 [ujinf74.github.io](https://ujinf74.github.io) · [ujinf.net](https://ujinf.net)
