@@ -1,4 +1,4 @@
-# Meow? Pew! 🔫😈
+# Meow? Pew!
 
 I make physical systems computable.
 
