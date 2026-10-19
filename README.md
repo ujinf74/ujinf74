@@ -7,3 +7,5 @@ Maintainer of [`autoware_carla_interface`](https://github.com/autowarefoundation
 Building [`monoscale`](https://github.com/ujinf74/monoscale) and [`ballistic-solver`](https://github.com/ujinf74/ballistic-solver).
 
 [Support the work](https://github.com/sponsors/ujinf74) · [ujinf74.github.io](https://ujinf74.github.io)
+
+[![ujinf74's GitHub stats](https://github-stats-extended.vercel.app/api?username=ujinf74)](https://github.com/stats-organization/github-stats-extended)
